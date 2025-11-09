@@ -1,7 +1,7 @@
 ---
 mermaid: true
 title: 'AEA MC服务器全设备使用手册(持续更新)'
-date: '2025-05-20T15:50:00-05:00'
+date: '2025-11-09T23:01:05+08:00'
 cover: "/covers/fallen72k.jpg"
 description: '还在手挖？还在手撸？还在手打？还在手种？还在手炼？还在手酿？还在手刷？还在手造？在世界各地像创造模式一样丝滑地取用物品以搭建奇观吧！'
 categories: ["服务"]
@@ -129,7 +129,32 @@ tags: ["Minecraft", "设备", "手册", "服务器"]
 [![](/images/mc_devices/minecraft_railway.gif "铁轨")](#刷铁轨机)
 {{% /icon-gallery %}}
 
+# 网站链接
+- [我的世界中文百科](https://zh.minecraft.wiki/)
+
+- [盔甲纹饰预览](https://www.armortrims.com/)
+
+<img src="/images/mc_devices/Armortrims.png" alt="Armortrims" title="Armortrims" style="width:35%;">
+
+- [将任何图像转换为 Minecraft 像素艺术](https://minecraftart.netlify.app/)
+
+- [种子地图查询](https://www.chunkbase.com/apps/seed-map#seed=AEA1989AEA&platform=java_1_21_4&dimension=overworld)
+
 # 主世界
+
+## 经验机
+<img src="/images/mc_devices/hanlinfengxihuanni.png" alt="仙人掌经验机" title="仙人掌经验机" style="width:35%;">
+
+一个建立在北海的经验机
+- **产出：** 大量经验
+- **输入：** 无
+- **坐标：** (24,78,-628)@主世界 (2,129,-77)@下界
+- **挂机构型：** 被动式
+- **维度构型：** 单维度
+
+**使用说明**
+- 踩下压力板，拿走对应熔炉中的绿色染料，即可瞬时获得大量经验
+- 经验通过烧制物品获取，配合区块加载器。故使用后需等待熔炉经验累积。
 
 ## 火药塔
 一个建立在北海的苦力怕生成结构
@@ -841,11 +866,3 @@ tags: ["Minecraft", "设备", "手册", "服务器"]
 - `🟥玩家死亡`：过于靠近监守者将导致玩家死亡
 - `🟧卡顿`：长期位于伪和平附近(17*17区块)将导致大量生物被强加载，从而产生服务器全局卡顿
 
-# 网站链接
-- [我的世界中文百科](https://zh.minecraft.wiki/)
-
-- [盔甲纹饰预览](https://www.armortrims.com/)
-
-<img src="/images/mc_devices/Armortrims.png" alt="Armortrims" title="Armortrims" style="width:35%;">
-
-- [将任何图像转换为 Minecraft 像素艺术](https://minecraftart.netlify.app/)
